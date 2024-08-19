@@ -1,2 +1,3 @@
-# PC1.2023-1.PJ4
-Projeto 4 da materia de "PROGRAMAÇÃO DE COMPUTADORES I".
+# Projeto - robo e labirinto
+
+> Projeto de simulação de um robo "aspirador" para resolução de desafios, labirintos.
